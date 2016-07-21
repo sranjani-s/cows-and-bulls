@@ -1,7 +1,6 @@
 //Cows and bulls
 
 #include<iostream>
-#include<conio.h>
 #include<string.h>
 
 using namespace std;
@@ -37,5 +36,5 @@ int main()
     }
     
     cout<<"You got it right!";
-    getch();
+    return 0;
 }       
